@@ -1,4 +1,4 @@
-# Tic-Tac-Toe!
+# Pix-TaC-Toe!
 
 A simple Game of X/O's played in a 9-square grid among 2 Players & if a Player completes a Row/Column/Diagonal with X/O... WINS!
 

@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "sdl.h": "c",
+        "window.h": "c",
+        "sdl_image.h": "c",
+        "gameplay.h": "c",
+        "animation.h": "c",
+        "event.h": "c",
+    },
+}

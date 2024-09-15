@@ -7,7 +7,6 @@ Pix-TaC-Toe is a graphical implementation of the classic Tic-Tac-Toe game using 
 
 - **Interactive Gameplay:** Engage in a classic Tic-Tac-Toe game with smooth animations and user interactions.
 - **Animated Home Page:** Enjoy a visually engaging home screen with scrolling backgrounds.
-- **Single Player Mode:** Includes functionality for playing against a computer or other players.
 
 
 ## Simple Controls

@@ -19,15 +19,14 @@ Pix-TaC-Toe is a graphical implementation of the classic Tic-Tac-Toe game using 
 
 ## Installation
 
-To get started with Pix-TaC-Toe!, clone the repository and build the project using the provided Makefile:
+- To get started with Pix-TaC-Toe, ensure you have `SDL2` and `SDL_image` libraries installed on your system.
+- Clone the repository and build the project using the provided Makefile:
 
 ```bash
 git clone https://github.com/aryan-bansal/Pix-TaC-Toe.git
 cd Pix-TaC-Toe
 make
 ```
-
-Ensure you have SDL2 and SDL_image libraries installed on your system.
 
 After building the project, run the executable from the `game` directory:
 
